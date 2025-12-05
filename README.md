@@ -113,12 +113,30 @@ cargo run -- -d 3 --sample  # Run Day 3 with sample input
 | 1 | Dial | ⭐ | ⭐ |
 | 2 | Product IDs | ⭐ | ⭐ |
 | 3 | Lobby | ⭐ | ⭐ |
-| 4 | *Locked* | 🔒 | 🔒 |
+| 4 | Printing Department | ⭐ | ⭐ |
 | 5 | *Locked* | 🔒 | 🔒 |
-| ... | ... | ... | ... |
+| 6 | *Locked* | 🔒 | 🔒 |
+| 7 | *Locked* | 🔒 | 🔒 |
+| 8 | *Locked* | 🔒 | 🔒 |
+| 9 | *Locked* | 🔒 | 🔒 |
+| 10 | *Locked* | 🔒 | 🔒 |
+| 11 | *Locked* | 🔒 | 🔒 |
+| 12 | *Locked* | 🔒 | 🔒 |
+| 13 | *Locked* | 🔒 | 🔒 |
+| 14 | *Locked* | 🔒 | 🔒 |
+| 15 | *Locked* | 🔒 | 🔒 |
+| 16 | *Locked* | 🔒 | 🔒 |
+| 17 | *Locked* | 🔒 | 🔒 |
+| 18 | *Locked* | 🔒 | 🔒 |
+| 19 | *Locked* | 🔒 | 🔒 |
+| 20 | *Locked* | 🔒 | 🔒 |
+| 21 | *Locked* | 🔒 | 🔒 |
+| 22 | *Locked* | 🔒 | 🔒 |
+| 23 | *Locked* | 🔒 | 🔒 |
+| 24 | *Locked* | 🔒 | 🔒 |
 | 25 | *Locked* | 🔒 | 🔒 |
 
-**Total Stars: 6/50** ⭐
+**Total Stars: 8/50** ⭐
 
 ---
 
