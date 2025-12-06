@@ -114,7 +114,7 @@ cargo run -- -d 3 --sample  # Run Day 3 with sample input
 | 2 | Product IDs | ⭐ | ⭐ |
 | 3 | Lobby | ⭐ | ⭐ |
 | 4 | Printing Department | ⭐ | ⭐ |
-| 5 | *Locked* | 🔒 | 🔒 |
+| 5 | Cafeteria | ⭐ | ⭐ |
 | 6 | *Locked* | 🔒 | 🔒 |
 | 7 | *Locked* | 🔒 | 🔒 |
 | 8 | *Locked* | 🔒 | 🔒 |
@@ -136,7 +136,7 @@ cargo run -- -d 3 --sample  # Run Day 3 with sample input
 | 24 | *Locked* | 🔒 | 🔒 |
 | 25 | *Locked* | 🔒 | 🔒 |
 
-**Total Stars: 8/50** ⭐
+**Total Stars: 10/50** ⭐
 
 ---
 

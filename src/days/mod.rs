@@ -4,6 +4,7 @@ pub mod day01;
 pub mod day02;
 pub mod day03;
 pub mod day04;
+pub mod day05;
 
 /// Type alias for a solve function that takes input and returns a result string
 type SolveFn = fn(&str) -> Result<String>;
@@ -32,6 +33,10 @@ fn get_day_registry(day: u8) -> Option<DayRegistry> {
         4 => Some(DayRegistry {
             part1: Some(day04::solve_part1),
             part2: Some(day04::solve_part2),
+        }),
+        5 => Some(DayRegistry {
+            part1: Some(day05::solve_part1),
+            part2: Some(day05::solve_part2),
         }),
         _ => None,
     }
